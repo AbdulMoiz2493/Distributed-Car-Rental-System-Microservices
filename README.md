@@ -6,7 +6,6 @@ The **Distributed Car Rental System** is a microservices-based architecture desi
 
 ## Features
 
-- **User Authentication**: Secure user registration and login.
 - **Car Management**: Add, update, and remove cars from the system.
 - **Reservation System**: Users can book and manage car rentals.
 - **Microservices Architecture**: Independently scalable services for better performance.
