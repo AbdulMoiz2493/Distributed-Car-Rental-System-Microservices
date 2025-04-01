@@ -163,6 +163,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any queries, reach out to [**Abdul Moiz**](https://github.com/AbdulMoiz2493).
+For any queries, reach out to [**Abdul Moiz**](https://github.com/AbdulMoiz2493),
 Email: abdulmoiz8895@gmail.com
 
